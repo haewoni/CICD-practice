@@ -1,10 +1,11 @@
 # <p align="center">jenkins-prod-deploy
 
-### jenkins를 이용해 개발 -> 운영서버 배포 자동화하기
+### jenkins를 이용해 개발 -> 운영 서버 배포 자동화하기
 
 ## 사용기술
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![k8s](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![]()
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+ ![]()
 
 <br>
 
@@ -30,6 +31,7 @@
 ## step 01 : 개발 jenkins 컨테이너에 SSH 키 추가
 
 <br>
+
 ## 트러블슈팅 📝
 
 <br>
